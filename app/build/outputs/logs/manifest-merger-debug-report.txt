@@ -1,0 +1,322 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:2:1-107:12
+INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:2:1-107:12
+INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:2:1-107:12
+INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:2:1-107:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/a12a787f23f53d18f0c0bfbb23182713/AndroidManifest.xml:17:1-24:12
+MERGED from [com.hbb20:ccp:2.2.9] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/121ff04385f74db621be20a1573498e6/AndroidManifest.xml:2:1-17:12
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/d7981896d8382f6c00f4c694bcba71a4/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/a8ccdde4769897109db8ab43efe2fbfa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/ff195122293beb157cc49f33c73fb98c/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/2684cf5be08c8b577598243976a09fb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/a33bdbe811be7e16b6014cc1f911a5b6/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f98f629ec1a777b7e39e88136a2eeb12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/94f66ba073e864657a0882ae696fa61c/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/0632d379d0d00e603b6f7aeb9b606807/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/06426c8e733833685a16ef224e7c47c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/dffc340ac75665c56adfb1a028dca016/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/5d990822f8b0f61cc911d924fde921ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/9bb171ae50bacde778128d8da1bb5b7b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f86ae98d685a1ab767410b2123312f67/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/3aad5766e000d60686b00e2dd59b9115/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/be87d92c0e7152eec75876eeb5ef14d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/948700c08916460f5b6e1663ce8d4d9b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/c471596cde15bd681564e84fc5b63fb1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f6be7062d281ced311144214576038c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/5144edf3c7652a9592792d189b3b3ad1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/7ce7aa96398e04709d26bd9ee2c00ee8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/9f19c390dd65c51ab92f396de3093813/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/09ec4eb51264fd21b562a5987cfddb4d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/ba8af9db465b200bc39133f8d9dc9890/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/db811a858cf9d75cde4f0014c55127bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f89bcc6d9e80480b6f673f4e219b4df9/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/6219f53a2af80730b034a09b279c70bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/b1178ece2f19ca32f20e7dd0ad6e4248/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/ed652e3cbf5f952090a7c982b7292472/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/711b54f06c48627b938a7438a327083a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/066c1510b2adc573d3966b53510e2a1c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/3c312eaa26433d0104e8372d86a823b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/836fbfb8f05c54ef0a8a11b216fe700d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/b6f939f611a08cf61fc8a8047dee0cff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/939f25c08c131771884207814b4b6307/AndroidManifest.xml:17:1-22:12
+MERGED from [io.michaelrocks:libphonenumber-android:8.10.1] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f39730adb02026f8254e7cae9e837aca/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:2:1-107:12
+INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:2:1-107:12
+INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:2:1-107:12
+	package
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:5:5-37
+		INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:2:1-107:12
+		INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:2:1-107:12
+		INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:3:5-63
+application
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:7:5-105:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/a12a787f23f53d18f0c0bfbb23182713/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/a12a787f23f53d18f0c0bfbb23182713/AndroidManifest.xml:22:5-20
+MERGED from [com.hbb20:ccp:2.2.9] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/121ff04385f74db621be20a1573498e6/AndroidManifest.xml:11:5-15:19
+MERGED from [com.hbb20:ccp:2.2.9] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/121ff04385f74db621be20a1573498e6/AndroidManifest.xml:11:5-15:19
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/d7981896d8382f6c00f4c694bcba71a4/AndroidManifest.xml:11:5-20
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/d7981896d8382f6c00f4c694bcba71a4/AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/ff195122293beb157cc49f33c73fb98c/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/ff195122293beb157cc49f33c73fb98c/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/94f66ba073e864657a0882ae696fa61c/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/94f66ba073e864657a0882ae696fa61c/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/09ec4eb51264fd21b562a5987cfddb4d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/09ec4eb51264fd21b562a5987cfddb4d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/ba8af9db465b200bc39133f8d9dc9890/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/ba8af9db465b200bc39133f8d9dc9890/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f89bcc6d9e80480b6f673f4e219b4df9/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f89bcc6d9e80480b6f673f4e219b4df9/AndroidManifest.xml:9:5-20
+	android:fitsSystemWindows
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:9:9-41
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/09ec4eb51264fd21b562a5987cfddb4d/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:11:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:14:9-51
+	tools:ignore
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:15:9-48
+	android:icon
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:13:9-40
+activity#app.iqonicthemes.qibus.ui.activity.SettingActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:17:9-19:52
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:19:13-49
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:18:13-78
+activity#app.iqonicthemes.qibus.ui.activity.PackageActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:21:9-23:52
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:23:13-49
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:22:13-78
+activity#app.iqonicthemes.qibus.ui.activity.OffersActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:25:9-27:52
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:26:13-77
+activity#app.iqonicthemes.qibus.ui.activity.CardDetailActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:29:9-32:52
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:32:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:31:13-67
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:30:13-81
+activity#app.iqonicthemes.qibus.ui.activity.PaymentActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:34:9-36:52
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:35:13-78
+activity#app.iqonicthemes.qibus.ui.activity.PassengerDetailActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:38:9-41:52
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:41:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:40:13-67
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:39:13-86
+activity#app.iqonicthemes.qibus.ui.activity.DroppingPointActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:43:9-45:52
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:45:13-49
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:44:13-84
+activity#app.iqonicthemes.qibus.ui.activity.VerificationActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:47:9-50:70
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:49:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:50:13-67
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:48:13-83
+activity#app.iqonicthemes.qibus.ui.activity.BookingActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:52:9-54:52
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:53:13-78
+activity#app.iqonicthemes.qibus.ui.activity.SignInActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:56:9-59:52
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:59:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:58:13-54
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:57:13-77
+activity#app.iqonicthemes.qibus.ui.activity.DashboardActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:61:9-65:15
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:64:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:63:13-52
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:62:13-80
+activity#app.iqonicthemes.qibus.ui.activity.SplashActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:67:9-74:20
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:69:13-49
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:68:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:70:13-73:29
+action#android.intent.action.MAIN
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:71:17-69
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:71:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:72:17-77
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:72:27-74
+activity#app.iqonicthemes.qibus.ui.activity.NotificationActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:76:9-78:52
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:78:13-49
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:77:13-83
+activity#app.iqonicthemes.qibus.ui.activity.BusListActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:80:9-82:52
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:82:13-49
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:81:13-78
+activity#app.iqonicthemes.qibus.ui.activity.ProfileSettingsActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:84:9-87:52
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:87:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:86:13-67
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:85:13-86
+activity#app.iqonicthemes.qibus.ui.activity.WalletActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:89:9-91:52
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:91:13-49
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:90:13-77
+activity#app.iqonicthemes.qibus.ui.activity.CardsActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:93:9-95:52
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:95:13-49
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:94:13-76
+activity#app.iqonicthemes.qibus.ui.activity.ReferEarnActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:97:9-99:52
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:99:13-49
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:98:13-80
+activity#app.iqonicthemes.qibus.ui.activity.HelpActivity
+ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:101:9-103:52
+	android:screenOrientation
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:103:13-49
+	android:name
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml:102:13-75
+uses-sdk
+INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/a12a787f23f53d18f0c0bfbb23182713/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/a12a787f23f53d18f0c0bfbb23182713/AndroidManifest.xml:20:5-44
+MERGED from [com.hbb20:ccp:2.2.9] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/121ff04385f74db621be20a1573498e6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.hbb20:ccp:2.2.9] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/121ff04385f74db621be20a1573498e6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/d7981896d8382f6c00f4c694bcba71a4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/d7981896d8382f6c00f4c694bcba71a4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/a8ccdde4769897109db8ab43efe2fbfa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/a8ccdde4769897109db8ab43efe2fbfa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/ff195122293beb157cc49f33c73fb98c/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/ff195122293beb157cc49f33c73fb98c/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/2684cf5be08c8b577598243976a09fb7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/2684cf5be08c8b577598243976a09fb7/AndroidManifest.xml:20:5-44
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/a33bdbe811be7e16b6014cc1f911a5b6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/a33bdbe811be7e16b6014cc1f911a5b6/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f98f629ec1a777b7e39e88136a2eeb12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f98f629ec1a777b7e39e88136a2eeb12/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/94f66ba073e864657a0882ae696fa61c/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/94f66ba073e864657a0882ae696fa61c/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/0632d379d0d00e603b6f7aeb9b606807/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/0632d379d0d00e603b6f7aeb9b606807/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/06426c8e733833685a16ef224e7c47c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/06426c8e733833685a16ef224e7c47c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/dffc340ac75665c56adfb1a028dca016/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/dffc340ac75665c56adfb1a028dca016/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/5d990822f8b0f61cc911d924fde921ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/5d990822f8b0f61cc911d924fde921ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/9bb171ae50bacde778128d8da1bb5b7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/9bb171ae50bacde778128d8da1bb5b7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f86ae98d685a1ab767410b2123312f67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f86ae98d685a1ab767410b2123312f67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/3aad5766e000d60686b00e2dd59b9115/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/3aad5766e000d60686b00e2dd59b9115/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/be87d92c0e7152eec75876eeb5ef14d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/be87d92c0e7152eec75876eeb5ef14d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/948700c08916460f5b6e1663ce8d4d9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/948700c08916460f5b6e1663ce8d4d9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/c471596cde15bd681564e84fc5b63fb1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/c471596cde15bd681564e84fc5b63fb1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f6be7062d281ced311144214576038c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f6be7062d281ced311144214576038c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/5144edf3c7652a9592792d189b3b3ad1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/5144edf3c7652a9592792d189b3b3ad1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/7ce7aa96398e04709d26bd9ee2c00ee8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/7ce7aa96398e04709d26bd9ee2c00ee8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/9f19c390dd65c51ab92f396de3093813/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/9f19c390dd65c51ab92f396de3093813/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/09ec4eb51264fd21b562a5987cfddb4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/09ec4eb51264fd21b562a5987cfddb4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/ba8af9db465b200bc39133f8d9dc9890/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/ba8af9db465b200bc39133f8d9dc9890/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/db811a858cf9d75cde4f0014c55127bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/db811a858cf9d75cde4f0014c55127bd/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f89bcc6d9e80480b6f673f4e219b4df9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f89bcc6d9e80480b6f673f4e219b4df9/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/6219f53a2af80730b034a09b279c70bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/6219f53a2af80730b034a09b279c70bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/b1178ece2f19ca32f20e7dd0ad6e4248/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/b1178ece2f19ca32f20e7dd0ad6e4248/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/ed652e3cbf5f952090a7c982b7292472/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/ed652e3cbf5f952090a7c982b7292472/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/711b54f06c48627b938a7438a327083a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/711b54f06c48627b938a7438a327083a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/066c1510b2adc573d3966b53510e2a1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/066c1510b2adc573d3966b53510e2a1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/3c312eaa26433d0104e8372d86a823b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/3c312eaa26433d0104e8372d86a823b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/836fbfb8f05c54ef0a8a11b216fe700d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/836fbfb8f05c54ef0a8a11b216fe700d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/b6f939f611a08cf61fc8a8047dee0cff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/b6f939f611a08cf61fc8a8047dee0cff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/939f25c08c131771884207814b4b6307/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/939f25c08c131771884207814b4b6307/AndroidManifest.xml:20:5-44
+MERGED from [io.michaelrocks:libphonenumber-android:8.10.1] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f39730adb02026f8254e7cae9e837aca/AndroidManifest.xml:7:5-9:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.10.1] /Users/dansmultipro/.gradle/caches/transforms-2/files-2.1/f39730adb02026f8254e7cae9e837aca/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dansmultipro/Downloads/codecanyon-tonDNfH5-qibus-bus-booking-android-app-ui-template/QIBus_product/app/src/main/AndroidManifest.xml
